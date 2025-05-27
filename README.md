@@ -51,7 +51,7 @@ Dataset kini siap untuk digunakan dalam tahap pengembangan dan pelatihan model.
 ## Dataset
 
 Dataset EcoWaste (sekitar 1GB setelah augmentasi dan splitting) dapat diunduh dari link berikut:
-[Unduh Dataset EcoWaste dari Google Drive]((https://drive.google.com/drive/folders/100p2NdORuHRUK27Zn27w-93mT2ftQypH?usp=sharing))
+[Unduh Dataset EcoWaste dari Google Drive](https://drive.google.com/drive/folders/100p2NdORuHRUK27Zn27w-93mT2ftQypH?usp=sharing)
 
 Setelah diunduh, ekstrak file ZIP tersebut. Anda akan menemukan folder `train`, `validation`, dan `test` yang berisi gambar-gambar sampah yang telah diklasifikasikan ke dalam folder kelas masing-masing (Organik, Kertas, Plastik).
 
